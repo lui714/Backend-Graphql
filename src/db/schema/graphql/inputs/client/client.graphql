@@ -1,0 +1,10 @@
+input ClientInput {
+  id: ID!
+  name: String!
+  email: String!
+  website: String
+  github: String
+  twitter: String
+  shoes: String
+  Zapatos: [String!]!
+}
