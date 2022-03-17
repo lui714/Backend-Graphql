@@ -35,7 +35,7 @@ node {
             // Save env 
             sh "echo $mongodb > ./environments/.env"
             // Run container
-            sh "docker run -d --restart always -p 3028:3028 -u root:root --name graphql -v \$(pwd)/environments/:/tmp/environments/ luisdocker361/graphql-image:${commit_id}"
+            sh "docker run --restart always -p 3028:3028 -u root:root --name graphql -v \$(pwd)/environments/:/tmp/environments/ luisdocker361/graphql-image:${commit_id}"
         }
     } 
 }
