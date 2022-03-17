@@ -23,7 +23,7 @@ node {
         sh "docker rmi luisdocker361/graphql-image:${commit_id}"
     }
     stage('Correr contenedor') {
-        withCredentials([string(credentialsId: 'mongodb', variable: 'mongodb')]) {
+        withCredentials([string(credentialsId: 'mongodb', variable: 'mongodb'),string(credentialsId: 'graphql-puerto', variable: 'puerto') ]) {
             // save image to constraint
             def cont = docker.image("luisdocker361/graphql-image:${commit_id}")
             // Download image
@@ -33,7 +33,8 @@ node {
             // Check if environments folder exists
             sh "if (test ! -d ./environments); then mkdir ./environments; fi"
             // Save env 
-            sh "echo $mongodb > ./environments/.env"
+            sh "echo $puerto    >  ./environments/.env"
+            sh "echo $mongodb   >> ./environments/.env"
             // Run container
             sh "docker run --restart always -p 3028:3028 -u root:root --name graphql -v \$(pwd)/environments/:/tmp/environments/ luisdocker361/graphql-image:${commit_id}"
         }
