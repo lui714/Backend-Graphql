@@ -3,4 +3,4 @@
 cd /app
 cp /tmp/environments/.env ./.env
 npx prisma generate
-npm run dev
+npm run start
