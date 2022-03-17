@@ -2,6 +2,7 @@
 
 cd /app
 cp /tmp/environments/.env ./src/.env
-npx prisma generate
-apt install curl -y
+npx prisma generated
+apt update
+apt install -y mongodb-org-shell
 npm run dev
