@@ -23,7 +23,6 @@ class Database {
         console.log(`DATABASE: ${chalk.redBright(this.db?.databaseName)}`);
     }
     return this.db;
-
   }
 }
 
