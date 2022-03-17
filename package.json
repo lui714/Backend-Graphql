@@ -20,7 +20,7 @@
     "apollo-server-express-3",
     "jwt"
   ],
-  "author": "Jose Antonio Morgado <morgado@gmail.com>",
+  "author": "Luis",
   "license": "ISC",
   "dependencies": {
     "@graphql-tools/load-files": "^6.4.0",

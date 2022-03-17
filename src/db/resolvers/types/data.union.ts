@@ -16,7 +16,6 @@ const typesUnionResolvers: IResolvers = {
     },
   },
   
-  
 };
 
 export default typesUnionResolvers;
