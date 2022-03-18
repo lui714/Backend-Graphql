@@ -32,7 +32,7 @@ node {
             sh "docker stop graphql || true && docker rm graphql || true"
             // Check if environments folder exists
             sh "if (test ! -d ./environments); then mkdir ./environments; fi"
-            // Save env 
+            // save env 
             sh "echo $puerto    >  ./environments/.env"
             sh "echo $mongodb   >> ./environments/.env"
             // Run container
