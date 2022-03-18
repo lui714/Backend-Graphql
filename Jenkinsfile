@@ -1,6 +1,7 @@
 node {
     def commit_id
     def previous_id
+    //Guarda los id del commit actual y el commit previo
     stage('Preparacion') {
         checkout scm
         // save actual id commit on file
