@@ -24,7 +24,7 @@ node {
     }
     stage('Correr contenedor') {
         withCredentials([string(credentialsId: 'mongodb', variable: 'mongodb'),string(credentialsId: 'graphql-puerto', variable: 'puerto') ]) {
-            // save image to constraint
+            // Save image to constraint
             def cont = docker.image("luisdocker361/graphql-image:${commit_id}")
             // Download image
             cont.pull()
