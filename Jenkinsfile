@@ -7,7 +7,7 @@ node {
         sh "git rev-parse --short HEAD > .git/commit-id"
         // read actual id commit
         commit_id = readFile('.git/commit-id').trim()
-        // Check if previous id commit exists
+        //check if previous id commit exists
         sh "if (test ! -f .git/previous-id); then echo '' > .git/previous-id; fi"
         // Read previous id commit
         previous_id = readFile('.git/previous-id').trim()
