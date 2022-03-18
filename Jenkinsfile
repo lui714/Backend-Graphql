@@ -5,7 +5,7 @@ node {
         checkout scm
         // save actual id commit on file
         sh "git rev-parse --short HEAD > .git/commit-id"
-        // Read actual id commit
+        // read actual id commit
         commit_id = readFile('.git/commit-id').trim()
         // Check if previous id commit exists
         sh "if (test ! -f .git/previous-id); then echo '' > .git/previous-id; fi"
