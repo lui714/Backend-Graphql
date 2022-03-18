@@ -3,7 +3,7 @@ node {
     def previous_id
     stage('Preparacion') {
         checkout scm
-        // Save actual id commit on file
+        // save actual id commit on file
         sh "git rev-parse --short HEAD > .git/commit-id"
         // Read actual id commit
         commit_id = readFile('.git/commit-id').trim()
