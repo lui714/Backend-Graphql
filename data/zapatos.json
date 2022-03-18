@@ -8,7 +8,8 @@
     "precio": "162.99€",
     "longDescription": "Dicen que no vale la pena cambiar lo que ya funciona, pero nosotros creemos que si algo se puede perfeccionar, hay que hacerlo. Por eso, hemos actualizado las superestrellas clásicas del estilo urbano con las Nike Blazer Mid '77 Jumbo. Aprovecha el look clásico que más te gusta, que ahora cuenta con un talón elástico con textura de pana y unas presillas grandes para que puedas ponértelas y quitártelas fácilmente. Los detalles oversize, como el logotipo y los cordones, añaden un toque divertido. Además, la lengüeta de espuma suave y las costuras más gruesas rinden homenaje al icónico look urbano que se popularizó en el 77.",
     "status": "PUBLISH",
-    "tallas": ["35", "37", "38", "39", "40", "43"]
+    "tallas": ["35", "37", "38", "39", "40", "43"],
+    "idm": "1"
   },
   {
     "id": "2",
@@ -19,7 +20,8 @@
     "precio": "60.95€",
     "longDescription": "Viajamos en nuestra máquina del tiempo para traerte una de las zapatillas favoritas de los 90, las Nike Air Max Plus. Las originalmente confeccionadas como zapatillas de running se utilizan ahora para el día a día ,y sus diseños inspirados en la playa (desde palmeras hasta colas de ballena) se han convertido en un icono. Además, las unidades Air Max en la planta del pie es se acomoda a la pisada que necesitas para sentirte a gusto. ",
     "status": "PUBLISH",
-    "tallas": ["35", "37", "44", "39", "40", "43", "42"]
+    "tallas": ["35", "37", "44", "39", "40", "43", "42"],
+    "idm": "3"
   },
   {
     "id": "3",
@@ -30,7 +32,8 @@
     "precio": "125.50€",
     "longDescription": "¿No sabes aún de lo que eres capaz? Cálzate esta zapatilla adidas Forum y descúbrelo por tu cuenta. Desde 1984, es un símbolo de la expresión personal, la superación y de lo que puedes conseguir trabajando duro. Esta versión luce un diseño con los colores clásicos que podría lucir cualquier equipo en la cancha y que nos recuerda que no estaríamos donde estamos sin la ayuda de los demás. La parte superior de piel blanca y los detalles en contraste conservan intacto el legado de la Forum.",
     "status": "PUBLISH",
-    "tallas": ["36", "38", "40", "42", "43", "46"]
+    "tallas": ["36", "38", "40", "42", "43", "46"],
+    "idm": "2"
   },
   {
     "id": "4",
@@ -40,7 +43,8 @@
     "precio": "100€",
     "longDescription": "El icono del baloncesto de los 80, creado para la cancha y adaptado al estilo urbano, vuelve con revestimientos brillantes y los colores universitarios de las zapatillas originales. Con su diseño clásico de baloncesto, las Nike Dunk High Retro llevan de nuevo el estilo vintage de los 80 a las calles. Su zona del tobillo de perfil alto y acolchada incorpora un look clásico y ofrece comodidad. ",
     "status": "UNPUBLISH",
-    "tallas": ["34", "36", "38", "40", "42", "44", "46"]
+    "tallas": ["34", "36", "38", "40", "42", "44", "46"],
+    "idm": "4"
   },
   {
     "id": "5",
@@ -50,7 +54,8 @@
     "precio": "134.99€",
     "longDescription": "Creadas para los paisajes urbanos más duros, las Nike Lahar Low te ofrecen un diseño retro tan resistente como preparado para la vida en la ciudad.Están confeccionadas con piel gruesa y resistente, y cuentan con varios detalles de las botas Lahar Escape del 89 para ofrecer un look clásico.Su patrón resistente, sus cordones redondos y sus ojales de metal permiten gobernar las calles y los senderos.",
     "status": "UNPUBLISH",
-    "talla": ["36", "38", "40", "42", "41", "43", "44", "46"]
+    "talla": ["36", "38", "40", "42", "41", "43", "44", "46"],
+    "idm": "1"
   },
   {
     "id": "6",
@@ -61,7 +66,8 @@
     "precio": "95.50€",
     "longDescription": "Las Nike SB Dunk Low Pro ofrecen el icónico estilo Dunk con un diseño de perfil bajo. La unidad Zoom Air del talón y la lengüeta acolchada ofrecen un ajuste cómodo pensado para el skate.",
     "status": "PUBLISH",
-    "tallas": ["33", "34", "37", "40", "41", "44", "45", "46"]
+    "tallas": ["33", "34", "37", "40", "41", "44", "45", "46"],
+    "idm": "3"
   },
   {
     "id": "7",
@@ -72,7 +78,8 @@
     "precio": "67.29€",
     "longDescription": "Acumula kilómetros en las pistas con nuestras Fresh Foam Hierro v6 robustas. Estas zapatillas de running para hombre presentan una entresuela Fresh Foam ligera que ayuda a amortiguar la pisada sobre terreno irregular. Una suela Vibram® probada proporciona tracción y durabilidad. Las fibras de TPU tejidas en el empeine en puntos clave mejoran la estructura de esta zapatilla para hombre y añaden protección a la puntera, mientras que las perforaciones con láser favorecen la transpirabilidad.",
     "status": "PUBLISH",
-    "tallas": ["35", "36", "40", "42", "44", "45", "47", "38"]
+    "tallas": ["35", "36", "40", "42", "44", "45", "47", "38"],
+    "idm": "5"
   },
   {
     "id": "8",
@@ -82,7 +89,8 @@
     "precio": "79.95€",
     "longDescription": "Son la próxima evolución de la velocidad para alcanzar nuevos objetivos y récords en carreras de 10 km y maratones. La parte superior renovada mejora la comodidad y la transpirabilidad, y la misma amortiguación con reactividad y sujeción te ayuda a alcanzar tu mejor marca personal.",
     "status": "UNPUBLISH",
-    "tallas": ["36", "37", "38", "39", "41", "42", "44"]
+    "tallas": ["36", "37", "38", "39", "41", "42", "44"],
+    "idm": "6"
   },
   {
     "id": "9",
@@ -93,7 +101,8 @@
     "precio": "59.99€",
     "longDescription": "Zapato versátil para todo tipo de actividades. La plantilla Phylon inspirada en las tecnologías de Running permite un óptimo balanceo del pie. Malla superior . Empeine knit, semelle bi-densité.Plantilla con inserto de silicona. Suela de doble densidad perfecta para un movimiento óptimo del pie.",
     "status": "PUBLISH",
-    "tallas": ["33", "34", "36", "37", "38", "39", "41", "42", "44"]
+    "tallas": ["33", "34", "36", "37", "38", "39", "41", "42", "44"],
+    "idm": "7"
   },
   {
     "id": "10",
@@ -103,7 +112,8 @@
     "precio": "94.50€",
     "longDescription": "Fabricada para aportar altas prestaciones, combinando flexibilidad con ajuste y estabilidad. Es flexible hasta el segundo en el que necesitas que sea estable. El corte está fabricado en piel muy flexible de primera calidad. Además, está construido con nylon interior de alta calidad y con resistencia a la tracción 800N/50 mm trama y urdimbre 600N/50 mm. Incluye refuerzo en la puntera para el golpeo.",
     "status": "UNPUBLISH",
-    "tallas": ["34", "35", "36", "38", "42", "44", "45"]
+    "tallas": ["34", "35", "36", "38", "42", "44", "45"],
+    "idm": "8"
   },
   {
     "id": "11",
@@ -114,7 +124,8 @@
     "precio": "125.50€",
     "longDescription": "El ícono grueso de Fila sube otro nivel con estas zapatillas de deporte Electrove 2 para mujer. Estas zapatillas deportivas tienen una parte superior de cuero revestido y sintético en una combinación de colores Gardenia. Cuentan con un cierre de cordones tonal y están asentados en una entresuela de EVA gruesa y exagerada para una amortiguación ligera y un estilo retro y atrevido. Con una banda de rodadura de goma adherente, estas zapatillas tienen un acabado con superposiciones en contraste. Fila pegado a las paredes laterales y marcado en la lengüeta.",
     "status": "PUBLISH",
-    "tallas": ["35", "37", "39", "40", "44", "45", "46"]
+    "tallas": ["35", "37", "39", "40", "44", "45", "46"],
+    "idm": "9"
   },
   {
     "id": "12",
@@ -124,6 +135,7 @@
     "precio": "119.95€",
     "longDescription": "Estas zapatillas llaman la atención vayas donde vayas. El TPU del talón se combina con una unidad Tuned Air que va desde el talón hasta la puntera para ofrecer estabilidad y amortiguación.",
     "status": "UNPUBLISH",
-    "tallas": ["33", "34", "37", "38", "40", "41", "42", "44"]
+    "tallas": ["33", "34", "37", "38", "40", "41", "42", "44"],
+    "idm": "2"
   }
 ]
